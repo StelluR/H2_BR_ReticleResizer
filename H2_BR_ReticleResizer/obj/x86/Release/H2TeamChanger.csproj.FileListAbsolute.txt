@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\bin\Release\H2TeamChanger.exe
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\bin\Release\H2TeamChanger.pdb
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.MainForm.resources
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.Properties.Resources.resources
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.exe
+C:\Users\Admin\Downloads\H2TeamChanger_modified by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.pdb

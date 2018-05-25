@@ -1,0 +1,24 @@
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\bin\Debug\H2TeamChanger.exe
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\bin\Debug\H2TeamChanger.pdb
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2_BR_ReticleResizer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2TeamChanger.MainForm.resources
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2TeamChanger.Properties.Resources.resources
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2_BR_ReticleResizer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2_BR_ReticleResizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2TeamChanger.exe
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Debug\H2TeamChanger.pdb
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\obj\x86\Debug\H2TeamChanger.exe
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\obj\x86\Debug\H2TeamChanger.pdb
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\bin\Debug\H2TeamChanger.exe
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\bin\Debug\H2TeamChanger.pdb
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\obj\x86\Debug\H2TeamChanger.MainForm.resources
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\obj\x86\Debug\H2TeamChanger.Properties.Resources.resources
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2TeamChanger\obj\x86\Debug\H2_BR_ReticleResizer.csproj.GenerateResource.Cache
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Debug\H2TeamChanger.exe
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Debug\H2TeamChanger.pdb
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\bin\Debug\H2TeamChanger.exe
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\bin\Debug\H2TeamChanger.pdb
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Debug\H2_BR_ReticleResizer.csprojResolveAssemblyReference.cache
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Debug\H2TeamChanger.MainForm.resources
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Debug\H2TeamChanger.Properties.Resources.resources
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Debug\H2_BR_ReticleResizer.csproj.GenerateResource.Cache

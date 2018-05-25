@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\bin\Release\H2TeamChanger.exe
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\bin\Release\H2TeamChanger.pdb
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.MainForm.resources
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.Properties.Resources.resources
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2_BR_ReticleResizer.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2_BR_ReticleResizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.exe
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2TeamChanger.pdb
+C:\Users\Admin\Downloads\BR Crosshair by phoenix\H2TeamChanger\H2TeamChanger\obj\x86\Release\H2_BR_ReticleResizer.csprojResolveAssemblyReference.cache
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Release\H2TeamChanger.MainForm.resources
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Release\H2_BR_ReticleResizer.csproj.GenerateResource.Cache
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\bin\Release\H2_BR_ReticleResizer.exe
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\bin\Release\H2_BR_ReticleResizer.pdb
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Release\H2_BR_ReticleResizer.Properties.Resources.resources
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Release\H2_BR_ReticleResizer.exe
+C:\Users\Zaim Khan\Desktop\BR_Reticle\H2_BR_ReticleResizer\obj\x86\Release\H2_BR_ReticleResizer.pdb
